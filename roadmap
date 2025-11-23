@@ -1,0 +1,8 @@
+sql/views/
+sql/staging/
+sql/archive/
+
+scripts/colab_cleaning/
+scripts/cloud_function/
+
+docs/
